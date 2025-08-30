@@ -25,7 +25,7 @@ The dataset contains various socio-economic and environmental factors that influ
 
 ## ⚙️ Steps Implemented
 ### 1. Load the Dataset
-- Data imported from [Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.data).  
+- Data imported from [https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.data].  
 - Added feature names.  
 - Checked descriptive statistics and missing values.  
 
@@ -63,4 +63,4 @@ All metrics are displayed in a pandas DataFrame for comparison.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/regression-housing.git
+   git clone https://github.com/imran-sony/regression-housing.git
