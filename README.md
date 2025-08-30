@@ -53,7 +53,7 @@ All metrics are displayed in a pandas DataFrame for comparison.
 
 ---
 
-## 📈 Example Output
+## 📈 Output
 
 ### Predicted vs Actual Prices
 ![Predicted vs Actual](./predicted_vs_actual.png)
