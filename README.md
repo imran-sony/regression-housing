@@ -15,7 +15,7 @@ The dataset contains various socio-economic and environmental factors that influ
 - **AGE**: proportion of owner-occupied units built prior to 1940  
 - **DIS**: weighted distances to five Boston employment centres  
 - **RAD**: index of accessibility to radial highways  
-- **TAX**: full-value property-tax rate per $10,000  
+- **TAX**: full-value property-tax rate per USD 10,000  
 - **PTRATIO**: pupil-teacher ratio by town  
 - **B**: 1000(Bk - 0.63)² where Bk is the proportion of Black residents by town  
 - **LSTAT**: % lower status of the population  
