@@ -19,7 +19,7 @@ The dataset contains various socio-economic and environmental factors that influ
 - **PTRATIO**: pupil-teacher ratio by town  
 - **B**: 1000(Bk - 0.63)² where Bk is the proportion of Black residents by town  
 - **LSTAT**: % lower status of the population  
-- **Target (MEDV)**: Median value of owner-occupied homes in $1000's  
+- **MEDV (Target)**: Median value of owner-occupied homes in $1000's  
 
 ---
 
