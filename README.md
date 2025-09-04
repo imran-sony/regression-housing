@@ -45,7 +45,7 @@ Metrics calculated:
 - **MAE** (Mean Absolute Error)  
 
 ### 5. Compare Results
-All metrics are displayed in a pandas DataFrame for comparison. 
+All metrics are displayed in a pandas DataFrame for comparison.  
 ![Result](./Result.png)
 
 ### 6. Visualization
