@@ -45,7 +45,8 @@ Metrics calculated:
 - **MAE** (Mean Absolute Error)  
 
 ### 5. Compare Results
-All metrics are displayed in a pandas DataFrame for comparison.  
+All metrics are displayed in a pandas DataFrame for comparison. 
+![Result](./Result.png)
 
 ### 6. Visualization
 - Scatter plots of **Predicted vs Actual** housing prices for all models.  
@@ -60,7 +61,7 @@ All metrics are displayed in a pandas DataFrame for comparison.
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
+## 🚀 Work on It
+Clone the repository:
    ```bash
    git clone https://github.com/imran-sony/regression-housing.git
